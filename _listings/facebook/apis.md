@@ -36,7 +36,7 @@ apis:
   tags: Places
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/facebook/place-id-delete.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/facebook/place-topic-id-get.md
 x-common:
 - type: x-android-sdk
   url: https://developers.facebook.com/docs/android/share
