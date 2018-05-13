@@ -23,17 +23,17 @@ modified: "2018-03-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/twitter/apis.yaml
 specificationVersion: "0.14"
 apis:
-- name: Twitter Geo Search
-  description: Search for places that can be attached to a statuses/updates
+- name: Twitter Get Similar Places
+  description: Locates places near the given coordinates which are similar in name
   image: https://avatars1.githubusercontent.com/u/50278?v=4
   humanURL: https://twitter.com/
   baseURL: https://api.twitter.com//1.1
   tags: Places
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/twitter/geo-search-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/twitter/geo-similar-places-get.md
   - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/twitter/geo-search-get-postman.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/twitter/geo-similar-places-get-postman.md
 x-common:
 - type: x-net-library
   url: https://tweetinvi.codeplex.com/
