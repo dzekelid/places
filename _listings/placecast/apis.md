@@ -1,19 +1,16 @@
 ---
 name: Placecast
-description: Placecast is a location-based digital advertising company that provides
-  ShopAlerts, an opt-in marketing service via mobile devices designed to drive customers
-  to specific physical spaces like retail stores.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/459_logo.png
+x-slug: placecast
+description: Discover the difference of carrier-validation in your programmatic mobile
+  advertising. Ericsson Emodos Ad Stack lets advertisers use existing demand platforms
+  and reach audiences in an efficient, privacy-compliant manner.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/459-placecast.jpg
 x-kinRank: "8"
-x-alexaRank: ""
-tags:
-- Target
-- Stack Network
-- Places
-- Location
-created: "2018-02-25"
-modified: "2018-02-25"
-url: https://raw.githubusercontent.com/streamdata-gallery/places/master/_listings/placecast/apis.yaml
+x-alexaRank: "5300044"
+tags: Places
+created: "2018-08-28"
+modified: "2018-08-28"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/placecast/apis.md
 specificationVersion: "0.14"
 apis: []
 x-common:
@@ -25,6 +22,12 @@ x-common:
   url: http://www.crunchbase.com/company/placecast
 - type: x-developer
   url: http://placecast.net/developer/documentation_api.html
+- type: x-email
+  url: info@ericsson-emodo.com
+- type: x-email
+  url: careers@ericsson-emodo.com
+- type: x-twitter
+  url: https://twitter.com/ericssonemodo
 - type: x-twitter
   url: https://twitter.com/placecast
 - type: x-website

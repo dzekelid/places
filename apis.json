@@ -1,0 +1,451 @@
+{
+	"name": "Streadata.io API Gallery - Places",
+	"description": "This is a repository of places APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/places.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://places.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Factual",
+			"x-api-slug": "factual",
+			"description": "Factual is pioneering how the world uses data to power mobile marketing, digital consumer products, mobile applications and real world analytics.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/139-factual.jpg",
+			"humanURL": "http://www.factual.com/",
+			"baseURL": "https://api.v3.factual.com//",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/factual/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Best Buy",
+			"x-api-slug": "best-buy",
+			"description": "Best Buy Company Profile  With operations in the United States,  Canada and Mexico, Best Buy is a North  American retailer of technology and  entertainment products and services with  a commitment to growth and innovation.  The Best Buy family of brand...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/158-best-buy-apis.jpg",
+			"humanURL": "http://www.bestbuy.com/",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/best-buy/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Foursquare",
+			"x-api-slug": "foursquare",
+			"description": "Foursquare helps you find the perfect places to go with friends. Discover the best food, nightlife, and entertainment in your area.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/203-foursquare.jpg",
+			"humanURL": "http://blog.foursquare.com",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/foursquare/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Twitter",
+			"x-api-slug": "twitter",
+			"description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/twitter-logo.png",
+			"humanURL": "https://twitter.com/",
+			"baseURL": "https://api.twitter.com//1.1",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/twitter/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "511 Bay Area",
+			"x-api-slug": "511-bay-area",
+			"description": "511 is your free one-stop phone and web source for up-to-the minute Bay Area traffic, transit, rideshare, bicycling, and parking information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_511_128x128_400x400.jpg",
+			"humanURL": "http://www.511.org/",
+			"baseURL": "https://api.511.org//transit",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/511-bay-area/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MapQuest",
+			"x-api-slug": "mapquest",
+			"description": "Official MapQuest website, find driving directions, maps, live traffic updates and road conditions.  Find nearby businesses, restaurants and hotels. Explore!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/365-mapquest.jpg",
+			"humanURL": "http://mapquest.com",
+			"baseURL": "https://www.mapquestapi.com//",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/mapquest/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Placecast",
+			"x-api-slug": "placecast",
+			"description": "Discover the difference of carrier-validation in your programmatic mobile advertising. Ericsson Emodos Ad Stack lets advertisers use existing demand platforms and reach audiences in an efficient, privacy-compliant manner.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/459-placecast.jpg",
+			"humanURL": "http://placecast.net",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/placecast/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yelp",
+			"x-api-slug": "yelp",
+			"description": "User Reviews and Recommendations of Best Restaurants, Shopping, Nightlife, Food, Entertainment, Things to Do, Services and More at Yelp",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/536-yelp.jpg",
+			"humanURL": "http://yelp.com/engineering",
+			"baseURL": "https://api.yelp.com//v3",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/yelp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "I Wanna Go There",
+			"x-api-slug": "i-wanna-go-there",
+			"description": "Iwannagothere.com is a travel guide for Coolpackers. Coolpackers are travelers that love design, architecture, vintage shops, music and trendy places.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/824-i-wanna-go-there.jpg",
+			"humanURL": "http://iwannagothere.com/api/index.html",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/i-wanna-go-there/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "SensisAPI",
+			"x-api-slug": "sensisapi",
+			"description": "Founded in 1985, Sensis Corporation is a global provider of air defense, air traffic control, airline and airport operations management, and data integration and distribution. The company serves a global client base and is actively involved in industry organizations and working groups worldwide, helping to address critical issues and develop innovative, real-world solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/923_logo.jpg",
+			"humanURL": "http://sensis.com.au/",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/sensisapi/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CityGrid Media",
+			"x-api-slug": "citygrid-media",
+			"description": "Leading Local Online Media Company",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/997-citygrid-media.jpg",
+			"humanURL": "http://docs.citygridmedia.com/display/citygridv2/CityGrid+APIs",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/citygrid-media/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Contactually",
+			"x-api-slug": "contactually",
+			"description": "Contactually is an intelligent CRM for real estate professionals.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1613-contactually.jpg",
+			"humanURL": "http://contactually.com/",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/contactually/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barcodes4.me",
+			"x-api-slug": "barcodes4-me",
+			"description": "The barcodes4.me web API can be used to generate barcodes and/or QR codes for your websites, web applications or other use. The API uses a very simple RESTful interface. Each barcode can be generated by creating the proper URL.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barcodes-4-me.png",
+			"humanURL": "http://www.barcodes4.me",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/barcodes4-me/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Flickr",
+			"x-api-slug": "flickr",
+			"description": "Flickr (pronounced flicker) is an image hosting and video hosting website, and web services suite that was created by Ludicorp in 2004 and acquired by Yahoo in 2005. In addition to being a popular website for users to share and embed personal photographs, and effectively an online community, the service is widely used by photo researchers and by bloggers to host images that they embed in blogs and social media.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flickr-logo.jpg",
+			"humanURL": "http://www.flickr.com/",
+			"baseURL": "https://api.flickr.com//services/",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/flickr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HERE",
+			"x-api-slug": "here",
+			"description": "HERE Technologies enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20089-here-maps.jpg",
+			"humanURL": "https://developer.here.com",
+			"baseURL": "https://weather.cit.api.here.com//weather/1.0",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/here/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS EC2",
+			"x-api-slug": "aws-ec2",
+			"description": "Amazon Elastic Compute Cloud is a web service that provides resizable compute capacity in the cloud. It is designed to make web-scale cloud computing easier for developers. Amazon EC2s simple web service interface allows you to obtain and configure capacity with minimal friction. It provides you with complete control of your computing resources and lets you run on Amazon&rsquo;s proven computing environment. Amazon EC2 reduces the time required to obtain and boot new server instances to minutes, allowing you to quickly scale capacity, both up and down, as your computing requirements change. Amazon EC2 changes the economics of computing by allowing you to pay only for capacity that you actually use. Amazon EC2 provides developers the tools to build failure resilient applications and isolate themselves from common failure scenarios.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Compute_AmazonEC2.png",
+			"humanURL": "https://aws.amazon.com/ec2/",
+			"baseURL": ":///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/aws-ec2/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PredictHQ",
+			"x-api-slug": "predicthq",
+			"description": "Event visibility yields higher returns & reduces operational costs. PredictHQ is the worlds largest source of intelligent event data making businesses smarter.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28211-predicthq.jpg",
+			"humanURL": "http://www.predicthq.com/",
+			"baseURL": "https://api.predicthq.com//",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/predicthq/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lota Data",
+			"x-api-slug": "lota-data",
+			"description": "",
+			"image": "",
+			"humanURL": "http://lotadata.com",
+			"baseURL": "https://api2.lotadata.com//v2",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/lota-data/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Transport for London Unified",
+			"x-api-slug": "transport-for-london-unified",
+			"description": "We are the integrated transport authority responsible for delivering Mayor of London Sadiq Khans strategy and commitments on transport. We run the day-to-day operation of the Capitals public transport network and manage Londons main roads.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/transport-for-london-unified-api.png",
+			"humanURL": "https://tfl.gov.uk/",
+			"baseURL": "https://api.tfl.gov.uk//",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/transport-for-london-unified/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ATTOM",
+			"x-api-slug": "attom",
+			"description": "Search public property records including real estate data: sale, ownership, tax, and more - for more than 150 million U.S. properties. ATTOM Data Solutions is the curator of ATTOM, a multi-sourced national property data warehouse that contains tax, deed, mortgage, foreclosure, environmental risk, natural hazard, health hazard, neighborhood characteristic and property characteristic data for over 155 million U.S. properties, delivering actionable data to clients and powering consumer websites owned by ATTOM Data Solutions: RealtyTrac.com, Homefacts.com, and HomeDisclosure.com.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28881-api-developer-attomdata-com.jpg",
+			"humanURL": "https://api.developer.attomdata.com",
+			"baseURL": "https://search.onboard-apis.com//communityapi/v2.0.0",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/attom/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "GIG & CROWD",
+			"x-api-slug": "gig--crowd",
+			"description": "A unique system of the order and booking of artists: negotiations, coordination of conditions, convenient reminders of fee payment terms and rider preparation.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gigandcrowd.png",
+			"humanURL": "https://gigandcrowd.com",
+			"baseURL": "https://gigandcrowd.com//",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/gig--crowd/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Places",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Places",
+	"include": [
+		{
+			"name": "Factual",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/factual/apis.yaml"
+		},
+		{
+			"name": "Best Buy",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/best-buy/apis.yaml"
+		},
+		{
+			"name": "Foursquare",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/foursquare/apis.yaml"
+		},
+		{
+			"name": "Twitter",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/twitter/apis.yaml"
+		},
+		{
+			"name": "511 Bay Area",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/511-bay-area/apis.yaml"
+		},
+		{
+			"name": "MapQuest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/mapquest/apis.yaml"
+		},
+		{
+			"name": "Placecast",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/placecast/apis.yaml"
+		},
+		{
+			"name": "Yelp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/yelp/apis.yaml"
+		},
+		{
+			"name": "I Wanna Go There",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/i-wanna-go-there/apis.yaml"
+		},
+		{
+			"name": "SensisAPI",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/sensisapi/apis.yaml"
+		},
+		{
+			"name": "CityGrid Media",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/citygrid-media/apis.yaml"
+		},
+		{
+			"name": "Contactually",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/contactually/apis.yaml"
+		},
+		{
+			"name": "Barcodes4.me",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/barcodes4-me/apis.yaml"
+		},
+		{
+			"name": "Flickr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/flickr/apis.yaml"
+		},
+		{
+			"name": "HERE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/here/apis.yaml"
+		},
+		{
+			"name": "AWS EC2",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/aws-ec2/apis.yaml"
+		},
+		{
+			"name": "PredictHQ",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/predicthq/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Lota Data",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/lota-data/apis.yaml"
+		},
+		{
+			"name": "Transport for London Unified",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/transport-for-london-unified/apis.yaml"
+		},
+		{
+			"name": "ATTOM",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/attom/apis.yaml"
+		},
+		{
+			"name": "GIG & CROWD",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/gig--crowd/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/places/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
